@@ -1,0 +1,24 @@
+body,html{
+	font-family: 'Pirata One', cursive;
+	height: 100%;
+	width: 100%;
+	background: url(https://images.pexels.com/photos/2387793/pexels-photo-2387793.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1500);
+}
+h1{
+	color: rgba(255, 255, 255, 0.66);
+	font-size: 50px;
+}
+button{
+	background-color:#ffffff;
+	padding: 10px 20px;
+	border-radius: 200px;
+	transition: 0.5s;
+	border: none;
+	
+}
+button:hover{
+	color: #ebfaff;
+	background-color: #003747;
+	transform: scale(0.9);
+
+}
